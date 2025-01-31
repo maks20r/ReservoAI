@@ -1,0 +1,1 @@
+This system utilizes OpenAI’s ChatGPT to help clients gather information about a business. ReservoAI serves as an expert, providing all requested details based on the client’s needs. When the client is ready, it guides them through the appointment booking process, which is automatically added to their Google Calendar.
